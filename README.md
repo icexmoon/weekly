@@ -17,7 +17,7 @@
 ## 发布平台
 
 - [**Github**](https://github.com/icexmoon/weekly)
-- [**CSDN**](https://blog.csdn.net/hy6533)
+- [**博客园**](https://www.cnblogs.com/Moon-Face/)
 - [**魔芋红茶's blog**](https://blog.icexmoon.xyz/)
 
 ## 往期目录
