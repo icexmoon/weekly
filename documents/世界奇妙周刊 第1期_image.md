@@ -8,7 +8,7 @@
 
 so，就有了这份东西。
 
-这份周刊会在Github创建项目，支持在issues页面进行投稿。
+这份周刊会在Github创建项目，支持在[**issue**](https://github.com/icexmoon/weekly/issues)页面进行投稿。
 
 主要的内容会包括杂七杂八的各种东西，因为版权关系会大部分放上链接，以对内容的个人点评介绍为主，对日常通过网络看到的好玩有趣或者具有内容深度的东西。
 
@@ -134,6 +134,6 @@ Typora一直是我的主力markdown编辑器，作为一款全平台开源产品
 
 发布平台的话：
 
-- Github
-- CSDN
-- 个人博客
+- [**Github**](https://github.com/icexmoon/weekly)
+- [**CSDN**](https://blog.csdn.net/hy6533)
+- [**魔芋红茶's blog**](https://blog.icexmoon.xyz/)
