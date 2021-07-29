@@ -16,9 +16,12 @@
 
 ## 发布平台
 
+- [**简书**](https://www.jianshu.com/nb/50833425)
+- [**知乎**](https://www.zhihu.com/column/c_1366048383807909888)
+
 - [**Github**](https://github.com/icexmoon/weekly)
 - [**博客园**](https://www.cnblogs.com/Moon-Face/)
-- [**魔芋红茶's blog**](https://blog.icexmoon.xyz/)
+- [**魔芋红茶's blog**](https://blog.icexmoon.xyz/archives/category/zhuanlan/%e4%b8%96%e7%95%8c%e5%a5%87%e5%a6%99%e5%91%a8%e5%88%8a)
 
 ## 往期目录
 
