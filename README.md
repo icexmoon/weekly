@@ -16,7 +16,6 @@
 
 ## 发布平台
 
-- [**简书**](https://www.jianshu.com/nb/50833425)
 - [**知乎**](https://www.zhihu.com/column/c_1366048383807909888)
 
 - [**Github**](https://github.com/icexmoon/weekly)
@@ -26,3 +25,5 @@
 ## 往期目录
 
 - [**第1期**](https://github.com/icexmoon/weekly/blob/main/documents/%E4%B8%96%E7%95%8C%E5%A5%87%E5%A6%99%E5%91%A8%E5%88%8A%20%E7%AC%AC1%E6%9C%9F_image.md)
+- [**第2期**](https://github.com/icexmoon/weekly/blob/main/documents/%E4%B8%96%E7%95%8C%E5%A5%87%E5%A6%99%E5%91%A8%E5%88%8A%20%E7%AC%AC2%E6%9C%9F.md)
+
